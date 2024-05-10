@@ -11,13 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joce1ynn/fitness-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joce1ynn/fitness-tracker/issues"
+    "url": "https://github.com/udit0703/fitness-tracker/issues"
   },
   "homepage": "https://github.com/fitness-tracker#readme",
   "devDependencies": {
